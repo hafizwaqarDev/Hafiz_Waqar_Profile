@@ -14,7 +14,7 @@
 
 <p align="center">
     <a href="https://github.com/hafizwaqarDev">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&lines=Python%20Deveopler;Python%20Web%20Scraper;Web%20Automation%20Expert;2%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45" alt="Typing Animation">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&lines=Python%20Deveopler;Python%20Web%20Scraper;Web%20Automation%20Expert;2%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45" alt="Typing Animation"> 
     </a>
 </p>
 
